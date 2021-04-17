@@ -1,0 +1,12 @@
+C:\Users\asre jadid\source\repos\Sahand\bin\Debug\Sahand.exe.config
+C:\Users\asre jadid\source\repos\Sahand\bin\Debug\Sahand.exe
+C:\Users\asre jadid\source\repos\Sahand\bin\Debug\Sahand.pdb
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.csprojAssemblyReference.cache
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.Form1.resources
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.Properties.Resources.resources
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.csproj.GenerateResource.cache
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.csproj.CoreCompileInputs.cache
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.exe
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.pdb
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.Add_data.resources
+C:\Users\asre jadid\source\repos\Sahand\obj\Debug\Sahand.Aks.resources
